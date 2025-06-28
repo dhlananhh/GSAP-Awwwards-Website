@@ -8,7 +8,7 @@
 
 <br />
 
- <div>
+<div>
     <img
       src="https://img.shields.io/badge/-React_JS_V19-black?style=for-the-badge&logoColor=white&logo=react&color=007ACC"
       alt="react.js"
@@ -28,7 +28,7 @@
 
 A modern and visually stunning front-end project inspired by Awwwards-winning websites. This project showcases a variety of advanced web animations and interactive effects, built with the powerful GreenSock Animation Platform (GSAP) and Locomotive Scroll.
 
-### [✨ View Live Demo ✨](https://dhlananhh.github.io/GSAP-Awwwards-Website/)
+### [✨ View Live Demo ✨](https://gsap-awwwards-website.vercel.app/)
 
 ---
 
